@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './guidelines.css'
+import './guidelines.css';
 
 
 class GettingStarted extends Component {

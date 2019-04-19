@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import './guidelines.css'
 
-
-
 class NonReactApps extends Component {
   render() {
     return (

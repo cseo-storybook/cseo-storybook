@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
+import './guidelines.css';
 
-
-class Spacing extends Component {
+class Contribution extends Component {
   render() {
     return (
       <div className="App">
@@ -18,4 +18,4 @@ class Spacing extends Component {
   }
 }
 
-export default Spacing;
+export default Contribution;

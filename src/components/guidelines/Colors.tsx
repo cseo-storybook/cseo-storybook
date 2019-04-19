@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import './guidelines.css';
 
 class Colors extends Component {
   render() {
